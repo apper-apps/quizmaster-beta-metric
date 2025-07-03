@@ -1,0 +1,64 @@
+[
+  {
+    "Id": 1,
+    "quizId": 1,
+    "score": 87,
+    "totalPoints": 30,
+    "completedAt": "2024-01-16T10:30:00Z",
+    "timeSpent": 1245,
+    "answers": {
+      "0": 1,
+      "1": 0,
+      "2": 1
+    }
+  },
+  {
+    "Id": 2,
+    "quizId": 2,
+    "score": 92,
+    "totalPoints": 30,
+    "completedAt": "2024-01-15T14:45:00Z",
+    "timeSpent": 1080,
+    "answers": {
+      "0": 1,
+      "1": 2,
+      "2": 1
+    }
+  },
+  {
+    "Id": 3,
+    "quizId": 4,
+    "score": 75,
+    "totalPoints": 20,
+    "completedAt": "2024-01-14T09:20:00Z",
+    "timeSpent": 890,
+    "answers": {
+      "0": 1,
+      "1": 2
+    }
+  },
+  {
+    "Id": 4,
+    "quizId": 3,
+    "score": 68,
+    "totalPoints": 30,
+    "completedAt": "2024-01-13T16:15:00Z",
+    "timeSpent": 1560,
+    "answers": {
+      "0": 0,
+      "1": 2
+    }
+  },
+  {
+    "Id": 5,
+    "quizId": 5,
+    "score": 85,
+    "totalPoints": 20,
+    "completedAt": "2024-01-12T11:45:00Z",
+    "timeSpent": 1320,
+    "answers": {
+      "0": 0,
+      "1": 1
+    }
+  }
+]

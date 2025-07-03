@@ -1,0 +1,50 @@
+[
+  {
+    "Id": 1,
+    "name": "Mathematics",
+    "icon": "Calculator",
+    "color": "#3B82F6"
+  },
+  {
+    "Id": 2,
+    "name": "Science",
+    "icon": "Microscope",
+    "color": "#10B981"
+  },
+  {
+    "Id": 3,
+    "name": "History",
+    "icon": "Clock",
+    "color": "#F59E0B"
+  },
+  {
+    "Id": 4,
+    "name": "English",
+    "icon": "BookOpen",
+    "color": "#EF4444"
+  },
+  {
+    "Id": 5,
+    "name": "Geography",
+    "icon": "Globe",
+    "color": "#8B5CF6"
+  },
+  {
+    "Id": 6,
+    "name": "Chemistry",
+    "icon": "FlaskConical",
+    "color": "#06B6D4"
+  },
+  {
+    "Id": 7,
+    "name": "Physics",
+    "icon": "Zap",
+    "color": "#F97316"
+  },
+  {
+    "Id": 8,
+    "name": "Biology",
+    "icon": "Leaf",
+    "color": "#84CC16"
+  }
+]

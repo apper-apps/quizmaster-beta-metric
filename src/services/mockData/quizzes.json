@@ -1,0 +1,166 @@
+[
+  {
+    "Id": 1,
+    "title": "Basic Algebra",
+    "description": "Test your understanding of basic algebraic concepts including variables, equations, and simple problem solving.",
+    "subject": "Mathematics",
+    "timeLimit": 30,
+    "difficulty": "Easy",
+    "createdAt": "2024-01-15T10:00:00Z",
+    "questions": [
+      {
+        "Id": 1,
+        "text": "What is the value of x in the equation 2x + 5 = 13?",
+        "options": ["2", "4", "6", "8"],
+        "correctAnswer": 1,
+        "points": 10
+      },
+      {
+        "Id": 2,
+        "text": "Simplify: 3x + 2x - x",
+        "options": ["4x", "5x", "6x", "2x"],
+        "correctAnswer": 0,
+        "points": 10
+      },
+      {
+        "Id": 3,
+        "text": "If y = 2x + 3 and x = 4, what is the value of y?",
+        "options": ["9", "11", "13", "15"],
+        "correctAnswer": 1,
+        "points": 10
+      }
+    ]
+  },
+  {
+    "Id": 2,
+    "title": "Cell Biology Fundamentals",
+    "description": "Explore the basic structure and function of cells, including organelles and cellular processes.",
+    "subject": "Biology",
+    "timeLimit": 25,
+    "difficulty": "Medium",
+    "createdAt": "2024-01-14T14:30:00Z",
+    "questions": [
+      {
+        "Id": 4,
+        "text": "Which organelle is known as the 'powerhouse of the cell'?",
+        "options": ["Nucleus", "Mitochondria", "Ribosome", "Golgi apparatus"],
+        "correctAnswer": 1,
+        "points": 10
+      },
+      {
+        "Id": 5,
+        "text": "What is the function of the cell membrane?",
+        "options": ["Protein synthesis", "DNA storage", "Controlling what enters and leaves the cell", "Energy production"],
+        "correctAnswer": 2,
+        "points": 10
+      },
+      {
+        "Id": 6,
+        "text": "Which process allows plants to make their own food?",
+        "options": ["Respiration", "Photosynthesis", "Digestion", "Circulation"],
+        "correctAnswer": 1,
+        "points": 10
+      }
+    ]
+  },
+  {
+    "Id": 3,
+    "title": "World War II Timeline",
+    "description": "Test your knowledge of major events, dates, and figures from World War II.",
+    "subject": "History",
+    "timeLimit": 35,
+    "difficulty": "Hard",
+    "createdAt": "2024-01-13T09:15:00Z",
+    "questions": [
+      {
+        "Id": 7,
+        "text": "When did World War II officially begin?",
+        "options": ["September 1, 1939", "December 7, 1941", "June 6, 1944", "May 8, 1945"],
+        "correctAnswer": 0,
+        "points": 15
+      },
+      {
+        "Id": 8,
+        "text": "Which battle is considered the turning point in the Pacific Theater?",
+        "options": ["Pearl Harbor", "Battle of Midway", "Battle of Iwo Jima", "Battle of Guadalcanal"],
+        "correctAnswer": 1,
+        "points": 15
+      }
+    ]
+  },
+  {
+    "Id": 4,
+    "title": "Grammar Basics",
+    "description": "Review fundamental English grammar rules including parts of speech, sentence structure, and punctuation.",
+    "subject": "English",
+    "timeLimit": 20,
+    "difficulty": "Easy",
+    "createdAt": "2024-01-12T16:45:00Z",
+    "questions": [
+      {
+        "Id": 9,
+        "text": "Which of the following is a proper noun?",
+        "options": ["city", "London", "building", "river"],
+        "correctAnswer": 1,
+        "points": 10
+      },
+      {
+        "Id": 10,
+        "text": "What type of sentence is this: 'Please close the door.'",
+        "options": ["Declarative", "Interrogative", "Imperative", "Exclamatory"],
+        "correctAnswer": 2,
+        "points": 10
+      }
+    ]
+  },
+  {
+    "Id": 5,
+    "title": "Chemical Reactions",
+    "description": "Understand the basics of chemical reactions, including types of reactions and balancing equations.",
+    "subject": "Chemistry",
+    "timeLimit": 40,
+    "difficulty": "Medium",
+    "createdAt": "2024-01-11T11:20:00Z",
+    "questions": [
+      {
+        "Id": 11,
+        "text": "What is the chemical formula for water?",
+        "options": ["H2O", "CO2", "NaCl", "O2"],
+        "correctAnswer": 0,
+        "points": 10
+      },
+      {
+        "Id": 12,
+        "text": "In a chemical equation, what do the coefficients represent?",
+        "options": ["Atomic numbers", "Number of molecules", "Molecular weights", "Electron numbers"],
+        "correctAnswer": 1,
+        "points": 10
+      }
+    ]
+  },
+  {
+    "Id": 6,
+    "title": "Forces and Motion",
+    "description": "Explore Newton's laws of motion and fundamental concepts of physics including force, acceleration, and momentum.",
+    "subject": "Physics",
+    "timeLimit": 45,
+    "difficulty": "Hard",
+    "createdAt": "2024-01-10T13:00:00Z",
+    "questions": [
+      {
+        "Id": 13,
+        "text": "What is Newton's first law of motion also known as?",
+        "options": ["Law of acceleration", "Law of inertia", "Law of action-reaction", "Law of gravity"],
+        "correctAnswer": 1,
+        "points": 15
+      },
+      {
+        "Id": 14,
+        "text": "If a force of 10N is applied to an object with mass 2kg, what is its acceleration?",
+        "options": ["5 m/s²", "10 m/s²", "20 m/s²", "2 m/s²"],
+        "correctAnswer": 0,
+        "points": 15
+      }
+    ]
+  }
+]
